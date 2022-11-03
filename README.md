@@ -1,6 +1,6 @@
 # TODO's LIST
 
-> It is an exercise to practice React. With this app you can make a list of todos. The list will be storaged at the local storage.
+> It is an exercise to practice React. With this app you can make a list of todos. The list will be stored at the local storage.
 > Live demo [_here_](https://frankovg.github.io/todos_list/).
 
 ## Table of Contents
